@@ -1,0 +1,11 @@
+tensorflow
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+scipy
+ipykernel
+streamlit
+streamlit_webrtc
+openpyxl
